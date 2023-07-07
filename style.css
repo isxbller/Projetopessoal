@@ -1,0 +1,48 @@
+header{
+    font-style: italic;
+    background-color: #db3a71;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+h1{
+    color: blanchedalmond;
+}
+
+.imagem{
+    text-align: left; 
+}
+.imagem img{
+    width: 100px;
+    position: relative;
+    bottom: 70px;
+}
+
+main{
+    background-color: #6BDBA8;
+    width: 100%;
+    height: 400px;
+    text-align: justify;
+}
+.imagenzinha{
+    text-align: right;
+    border-image: 10px solid #db3a71;
+}
+.imagenzinha img{
+    width: 200px;
+    margin-bottom: 20%;
+    margin-right: 4%;
+}
+footer{
+    background-color: #8F4270;
+    width: 100%;
+    height: 100px;
+}
+
+.h1{
+    font-style: italic;
+}
+
+.h3{
+    font-style: italic;
+}
